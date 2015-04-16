@@ -6,4 +6,6 @@ for i in a:
 a.append(4)
 for i in a:
     print i
-#checkout
+a.append(5)
+for i in a:
+    print i
